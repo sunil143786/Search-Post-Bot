@@ -5,3 +5,8 @@ SESSION      = "BQFmTcUAxO4F27r6gb5NDUiLuFu0cjSABKviAlgQu13ud4Zbwc6DeVpiF4dgJgxE
 DATABASE_URI = "mongodb+srv://MdiskDb:MdiskDb@cluster0.lmirmtn.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001539693613
 ADMIN        = 5272400279
+
+# Bot settings
+WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
+PICS = (environ.get('PICS' ,'https://graph.org/file/a56d455f88bc3117635ee.jpg')).split()
+UPTIME = time.time()
