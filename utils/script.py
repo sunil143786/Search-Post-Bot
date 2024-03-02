@@ -3,7 +3,7 @@ class script(object):
    
 I am **Find Post Bot**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it.
-JOIN : @MYFILMYDUNIYA0143"""
+JOIN : @Movie_Official_Hindi"""
 
     HELP = """To Use me In A Group
 
