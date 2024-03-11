@@ -3,7 +3,7 @@ class script(object):
    
 I am **Find Post Bot**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it.
-JOIN : @Movie_Official_Hindi"""
+JOIN : @My_Filmy_Duniya_0143"""
 
     HELP = """To Use me In A Group
 
@@ -18,7 +18,7 @@ this will help you to remove a indexed channel from your group.
 
 Get connected channels list with - /connections"""
 
-    ABOUT = """Powered By @myfilmyduniya0143
+    ABOUT = """Powered By @my_filmy_duniya_0143
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=5272400279'>🦋⃟ᴠͥɪͣᴘͫ⃝HIndu𝄟⃝</a>
